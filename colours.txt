@@ -1,1 +1,5 @@
 a file for colours
+pink
+red
+blue
+green
